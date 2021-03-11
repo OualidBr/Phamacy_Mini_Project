@@ -30,12 +30,12 @@
         {
             this.PanMinu = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.button5 = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
@@ -86,22 +86,6 @@
             this.label1.Size = new System.Drawing.Size(111, 19);
             this.label1.TabIndex = 16;
             this.label1.Text = "Oualid Barrouh";
-            // 
-            // button5
-            // 
-            this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(95)))), ((int)(((byte)(137)))));
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(183)))), ((int)(((byte)(135)))));
-            this.button5.Image = global::Phamacy_Mini_Project.Properties.Resources.icons8_graph;
-            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(9, 473);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(235, 45);
-            this.button5.TabIndex = 11;
-            this.button5.Text = "ventes";
-            this.button5.UseVisualStyleBackColor = true;
             // 
             // pictureBox5
             // 
@@ -165,6 +149,22 @@
             this.button1.Text = "Categorie";
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // button5
+            // 
+            this.button5.FlatAppearance.BorderSize = 0;
+            this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(95)))), ((int)(((byte)(137)))));
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(183)))), ((int)(((byte)(135)))));
+            this.button5.Image = global::Phamacy_Mini_Project.Properties.Resources.icons8_graph;
+            this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button5.Location = new System.Drawing.Point(9, 473);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(235, 45);
+            this.button5.TabIndex = 11;
+            this.button5.Text = "ventes";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
             // button4
             // 
             this.button4.FlatAppearance.BorderSize = 0;
@@ -202,7 +202,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Phamacy_Mini_Project.Properties.Resources._2_01;
-            this.pictureBox2.Location = new System.Drawing.Point(9, 87);
+            this.pictureBox2.Location = new System.Drawing.Point(8, 87);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(58, 116);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
