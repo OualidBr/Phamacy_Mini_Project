@@ -203,6 +203,16 @@ namespace Phamacy_Mini_Project.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_settings_1 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_settings_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap xman_01 {
             get {
                 object obj = ResourceManager.GetObject("xman-01", resourceCulture);

@@ -81,7 +81,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(183)))), ((int)(((byte)(135)))));
-            this.label1.Location = new System.Drawing.Point(87, 31);
+            this.label1.Location = new System.Drawing.Point(78, 28);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(111, 19);
             this.label1.TabIndex = 16;
@@ -89,7 +89,8 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Location = new System.Drawing.Point(204, 29);
+            this.pictureBox5.Image = global::Phamacy_Mini_Project.Properties.Resources.icons8_settings_1;
+            this.pictureBox5.Location = new System.Drawing.Point(204, 26);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(29, 25);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
